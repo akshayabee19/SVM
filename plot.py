@@ -1,4 +1,5 @@
 import matplotlib.pyplot as plt
+import numpy as np
 from sklearn.svm import SVC
 from scipy import stats
 #%matplotlib inline
